@@ -10,7 +10,7 @@ POST http://localhost:3003/movies/
 }
 ###
 
-GET http://localhost:3003/movies/48/
+GET http://localhost:3003/movies/112/
 ###
 
 PUT http://localhost:3003/movies/46/
@@ -28,5 +28,5 @@ DELETE http://localhost:3003/movies/46/
 GET http://localhost:3003/directors/
 ###
 
-GET http://localhost:3003/directors/23/movies/ 
+GET http://localhost:3003/directors/48/movies/ 
 ###
